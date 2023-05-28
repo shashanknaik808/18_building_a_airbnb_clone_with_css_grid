@@ -19,6 +19,23 @@ body {
     font-family: var(--mainFont);
 }
 
+/* Colors    Categories */
+.lodgement {
+    color: #274154;
+}
+
+.concert {
+    color: #DA595e;
+}
+
+.class {
+    color: #598DDA;
+}
+
+.outdoor-activity {
+    color: #940AD4;
+}
+
 h1 {
     font-weight: 700;
     font-size: 2rem;
